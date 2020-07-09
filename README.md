@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hellow! 👋
+
+Development, design of web and mobile applications for startups and large companies. 
+Developing solutions is my fuel.
+
+### Useful links: 
+[👉 Blog](https://dev.to/bybruno)
+
+[ 👉 Linkedin](linkedin.com/in/bybruno)
+
 
 <!--
 **bybruno/bybruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
