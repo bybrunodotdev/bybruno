@@ -6,7 +6,7 @@ Developing solutions is my fuel.
 ### Useful links: 
 [👉 Blog](https://dev.to/bybruno)
 
-[ 👉 Linkedin](linkedin.com/in/bybruno)
+[ 👉 Linkedin](https://linkedin.com/in/bybruno)
 
 
 <!--
